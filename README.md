@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Salek</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salekmia&label=Profile%20views&color=0e75b6&style=flat" alt="salekmia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/salekalways" target="blank"><img src="https://img.shields.io/twitter/follow/salekalways?logo=twitter&style=for-the-badge" alt="salekalways" /></a> </p>
+
+
+
+<p>I love programming. Google search is my hobby. I have fun learning new things. However, I am more interested in web development. So I want to stick to it, I want to work. This is my dream, this is my hope. And I have learned and am learning JavaScript and some of its frameworks and libraries to develop the web. Good luck to everyone. Thanks.<p>
+
+
+Skills: **HTML** / **CSS** / **BOOTSTRAP** / **JAVASCRIPT** / **REACT** / **NODE JS** / **VUE JS** 
 
 - 🌱 I’m currently learning **Web Developement**
 
