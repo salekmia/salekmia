@@ -1,8 +1,9 @@
+(https://media-exp1.licdn.com/dms/image/C4E16AQEn92wjzKWQrA/profile-displaybackgroundimage-shrink_350_1400/0/1610122571069?e=1635984000&v=beta&t=vZ32mZxxu9faqGv-X13SPwxwhyNTfWZH59Ey18eBRZY)
 <h1 align="center">Hi 👋, I'm Salek</h1>
 <h3 align="center">A passionate web developer</h3>
 ### Hi there 👋, my name is Salek
 #### I'm a Web Developer.
-![I'm a Web Developer.](https://media-exp1.licdn.com/dms/image/C4E16AQEn92wjzKWQrA/profile-displaybackgroundimage-shrink_350_1400/0/1610122571069?e=1635984000&v=beta&t=vZ32mZxxu9faqGv-X13SPwxwhyNTfWZH59Ey18eBRZY)
+![I'm a Web Developer.]
 
 I love programming. Google search is my hobby. I have fun learning new things. However, I am more interested in web development. So I want to stick to it, I want to work. This is my dream, this is my hope. And I have learned and am learning JavaScript and some of its frameworks and libraries to develop the web. Good luck to everyone. Thanks.
 
