@@ -34,7 +34,7 @@ Skills: **HTML** / **CSS** / **BOOTSTRAP** / **JAVASCRIPT** / **REACT** / **NODE
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salekmia&show_icons=true&locale=en&layout=compact" alt="salekmia" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salekmia&show_icons=true&locale=en" alt="salekmia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salekmia&" alt="salekmia" /></p>
