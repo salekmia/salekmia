@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Salek</h1>
 <h3 align="center">A passionate web developer</h3>
 
-I love programming. Google search is my hobby. I have fun learning new things. However, I am more interested in web development. So I want to stick to it, I want to work. This is my dream, this is my hope. And I have learned and am learning JavaScript and some of its frameworks and libraries to develop the web. Good luck to everyone. Thanks.
+Hi! I am a frontend (React) web developer. I love programming. I am deeply interested in JavaScript and doing google searches is my hobby. I have fun learning new things.
+
+However, I am more interested in web development. So I want to stick to it, I want to work.
 
 
 Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / NODE JS / VUE JS 
